@@ -1,6 +1,8 @@
 ### Bem Vindo! 👋
 
-Olá, seja bem vindo ao meu GitHub! Sou Cientista de Dados, e neste perfil você encontra os meus projetos.
+Olá, seja bem vindo ao meu GitHub! 
+
+Me chamo Lucas Miranda e sou Cientista de Dados. Neste perfil você encontra os meus projetos.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasMirandaVS&show_icons=true&theme=radical)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMirandaVS&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
