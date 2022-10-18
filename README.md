@@ -1,6 +1,6 @@
 ### Bem Vindo! 👋
 
-Me chamo Lucas Miranda, sou Cientista de Dados e possuo mestrado em Economia Aplicada pela Universidade Federal de Ouro Preto. Neste perfil econtram-se meus projetos realizados em Economia e Data Science.
+Me chamo Lucas Miranda, sou Analista de Dados e tenho mestrado em Economia Aplicada pela Universidade Federal de Ouro Preto. Neste perfil econtram-se meus projetos realizados em Economia e Data Science.
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/lucas-miranda-ds/)
 &nbsp; 
