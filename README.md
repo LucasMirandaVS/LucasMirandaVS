@@ -4,6 +4,5 @@
 
 Here, you'll find repositories with projects covering **Economics, Data Engineering, Data Analysis, and Machine Learning**.  
 
-Let's connect!
-💼 [LinkedIn](https://www.linkedin.com/in/lucas-miranda-ds) 
+
 
