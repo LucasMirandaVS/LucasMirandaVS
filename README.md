@@ -4,9 +4,6 @@ I'm a Data Engineer with over 4 years of experience in data analysis, modeling, 
 
 Here you’ll find a mix of projects related to economics, data engineering, analytics, and machine learning. From ETL pipelines and automation to predictive models and business-oriented analyses.
 
-### 🌐 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/lucas-miranda-ds)
-
 ---
 
 ### Tech Stack
@@ -21,4 +18,9 @@ Here you’ll find a mix of projects related to economics, data engineering, ana
 
 ---
 
-Check out some of the pinned projects below to see what I’ve been working on!
+### 🌐 Let's Connect
+
+I'm always open to connect, share ideas, or collaborate on data projects.  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-miranda-ds)
+
+You can also check out some of the pinned projects below to see what I’ve been working on!
