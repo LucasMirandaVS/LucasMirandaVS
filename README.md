@@ -20,3 +20,4 @@ Here you’ll find a mix of projects related to economics, data engineering, ana
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
+Check out some of the pinned projects below to see what I’ve been working on.
