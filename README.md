@@ -1,6 +1,6 @@
 ### Welcome!
 
-I'm a Data Engineer with over 4 years of experience in data analysis, modeling, and machine learning, always focused on delivering insights and building scalable solutions. I have proven international experience, having worked with global teams and cross-cultural projects that demanded strong communication, adaptability, and an understanding of diverse business contexts.
+I'm a Data Engineer with experience in data analysis, modeling, and machine learning, always focused on delivering insights and building scalable solutions. I have proven international experience, having worked with global teams and cross-cultural projects that demanded strong communication, adaptability, and an understanding of diverse business contexts.
 
 Here you’ll find a mix of projects related to economics, data engineering, analytics, and machine learning. From ETL pipelines and automation to predictive models and business-oriented analyses.
 
